@@ -44,9 +44,9 @@
         "js:test": "pnpm --filter fintava test"
     },
     "devDependencies": {
-        "@changesets/cli": "^2.27.9",
-        "prettier": "^3.3.3",
-        "typescript": "^5.6.3"
+        "@changesets/cli": "^2.30.0",
+        "prettier": "^3.8.1",
+        "typescript": "^5.9.3"
     },
     "engines": {
         "node": ">=16",
